@@ -1,0 +1,9 @@
+// steps to follow for setup...! 
+// install required dependencies
+// init, mongoose, bcrypt, jsonwebtoken. 
+// Database connection setup
+// dont forgot to replace with your own database configuration
+// user schema
+// Login API
+// Tambula ticket Create API
+// Start the server
